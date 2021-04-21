@@ -1,1 +1,2 @@
-story 1
+story num 1 deleted
+soty 2 added
